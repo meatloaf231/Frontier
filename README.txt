@@ -1,0 +1,1 @@
+This is a roguelike. Generic as of yet. Currently being worked on: equipment.
